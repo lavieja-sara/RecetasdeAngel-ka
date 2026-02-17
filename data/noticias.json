@@ -1,0 +1,36 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Nuevo menú especial de primavera",
+      "descripcion": "Descubre nuestras nuevas creaciones gastronómicas inspiradas en los sabores de la primavera.",
+      "fecha": "15 de febrero de 2026",
+      "imagen": "../imagenescocina/noticia1.jpg",
+      "categoria": "Menu"
+    },
+    {
+      "id": 2,
+      "titulo": "Servicio de catering para bodas",
+      "descripcion": "Especialistas en eventos especiales. Personaliza tu menú para que tu boda sea inolvidable.",
+      "fecha": "10 de febrero de 2026",
+      "imagen": "../imagenescocina/noticia2.jpg",
+      "categoria": "Eventos"
+    },
+    {
+      "id": 3,
+      "titulo": "Taller de repostería artesanal",
+      "descripcion": "Únete a nuestro taller exclusivo donde aprenderás las técnicas de nuestros maestros pasteleros.",
+      "fecha": "5 de febrero de 2026",
+      "imagen": "../imagenescocina/noticia3.jpg",
+      "categoria": "Talleres"
+    },
+    {
+      "id": 4,
+      "titulo": "Ingredientes premium importados",
+      "descripcion": "Hemos ampliado nuestra selección con ingredientes gourmet directamente de Europa.",
+      "fecha": "1 de febrero de 2026",
+      "imagen": "../imagenescocina/noticia4.jpg",
+      "categoria": "Ingredientes"
+    }
+  ]
+}
